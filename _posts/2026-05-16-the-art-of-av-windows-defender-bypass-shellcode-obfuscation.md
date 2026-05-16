@@ -1,5 +1,5 @@
 ---
-title: The Art of Windows Defender Bypass and Shellcode Obfuscation
+title: The Art of Windows Defender Bypass & Shellcode Obfuscation 
 date: 2026-05-16 
 categories: [Red Team]
 image:
@@ -7,11 +7,9 @@ image:
   alt: AV Bypass Cover
 ---
 
-Hey Champ good to see you here, in this blog I will showcase some ways to bypass **Windows Defender**. All the techniques tested on **Windows 11 Pro Defender and bypassed.**
+Hey Champ good to see you here, in this blog I will showcase some ways to bypass **Windows Defender**. All the techniques tested on **Windows 11 Pro Defender and bypassed.
 
 > **Note:** These techniques do not bypass EDR and some other antivirus apps.
----
-
 ---
 
 ## Things To Know Before We Start
