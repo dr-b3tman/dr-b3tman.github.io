@@ -37,5 +37,4 @@ I'm a **Red Teamer** focused on offensive security, adversary simulation, vulner
 - LinkedIn: [ali-mohammed1337](https://www.linkedin.com/in/ali-mohammed1337) 
 
 
-
 ---

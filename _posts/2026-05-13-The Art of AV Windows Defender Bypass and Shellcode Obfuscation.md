@@ -1,6 +1,6 @@
 ---
-title: The Art of Windows Defender Bypass & Shellcode Obfuscation
-date: 2026-05-13 
+title: The Art of Windows Defender Bypass and Shellcode Obfuscation
+date: 2026-05-16 
 categories: [Red Team]
 image:
   path: /assets/img/gojo.png
