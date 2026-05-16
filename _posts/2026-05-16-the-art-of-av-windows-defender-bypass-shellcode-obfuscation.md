@@ -11,7 +11,6 @@ Hey Champ good to see you here, in this blog I will showcase some ways to bypass
 
 > **Note:** These techniques do not bypass EDR and some other antivirus apps.
 
-
 ---
 
 ## Things To Know Before We Start
