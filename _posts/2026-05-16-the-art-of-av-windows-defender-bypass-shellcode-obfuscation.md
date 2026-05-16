@@ -17,7 +17,6 @@ Hey Champ good to see you here, in this blog I will showcase some ways to bypass
 
 --- 
 
-
 ### What is Windows defender?
 
 **Windows defender** is a built-in antivirus and antimalware solution provided by Microsoft for Windows operating systems. It helps protect your computer against various threats such as viruses, spyware, ransomware, and other malicious software.
