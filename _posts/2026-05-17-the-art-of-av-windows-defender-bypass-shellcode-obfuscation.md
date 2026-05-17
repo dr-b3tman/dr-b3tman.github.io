@@ -31,7 +31,7 @@ Key Features of Windows Defender
 
 ### How Windows defender Work?
 
- **Static Analysis**: Static analysis means examining a program without running it.
+**Static Analysis**: Static analysis means examining a program without running it.
 The antivirus scans the file and looks for:
 
 - known malicious strings
