@@ -15,7 +15,7 @@ Hey Champ good to see you here, in this blog I will showcase some ways to bypass
 
 ## Things To Know Before We Start
 
---- 
+---
 
 ### What is Windows defender?
 
