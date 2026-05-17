@@ -1,7 +1,7 @@
 ---
 title: The Art of Windows Defender Bypass and Shellcode Obfuscation 
-date: 2026-05-16 
-categories: Red Team
+date: 2026-05-17 
+categories: [Red Team]
 image:
   path: /assets/img/gojo.png
   alt: AV Bypass Cover
@@ -12,7 +12,6 @@ Hey Champ good to see you here, in this blog I will showcase some ways to bypass
 > **Note:** These techniques do not bypass EDR and some other antivirus apps.
 
 ---
-
 ## Things To Know Before We Start
 
 --- 
